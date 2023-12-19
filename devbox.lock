@@ -1,0 +1,23 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "awscli2@latest": {
+      "last_modified": "2023-12-03T07:45:23Z",
+      "resolved": "github:NixOS/nixpkgs/ec04772e7516b6d58d98b491e68b329b7558b14d#awscli2",
+      "source": "devbox-search",
+      "version": "2.14.2"
+    },
+    "cargo-lambda@latest": {
+      "last_modified": "2023-11-17T14:14:56Z",
+      "resolved": "github:NixOS/nixpkgs/a71323f68d4377d12c04a5410e214495ec598d4c#cargo-lambda",
+      "source": "devbox-search",
+      "version": "0.21.1"
+    },
+    "localstack@latest": {
+      "last_modified": "2023-11-26T05:37:23Z",
+      "resolved": "github:NixOS/nixpkgs/abbe047fb8a5a7074b6de24cced0dbdb27ea0ea8#localstack",
+      "source": "devbox-search",
+      "version": "3.0.0"
+    }
+  }
+}
